@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Piensa, Cree, Sueña y Atrevete");
+            MessageBox.Show("Piensa, cree, sueña y atravete");
         }
     }
 }
